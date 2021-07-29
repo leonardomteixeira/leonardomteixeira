@@ -34,7 +34,7 @@ As a mobile developer, I developed and acted in financial, sports and delivery a
 
 ## Github Stats
 
-  <summary>💻 GitHub Profile Stats</summary>
+ 💻 GitHub Profile Stats
  
  <a href="https://github.com/leonardomteixeira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardomteixeira&theme=midnight-purple&show_icons=true" />
