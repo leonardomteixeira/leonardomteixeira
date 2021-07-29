@@ -1,7 +1,7 @@
 <p align="center">
  <img width="100px" src="https://github.com/hendrasob/hendrasob/blob/master/assets/github.gif" align="center" alt="Hendrasob's GitHub Readme" />
  <h2 align="center">Lema - @o_machads</h2>
- <p align="center">Senior Flutter Engineerr</p>
+ <p align="center">Senior Flutter Engineer</p>
 </p>
 
 <p align="center">
@@ -26,11 +26,11 @@ object Leonardo {
 ```
 ## Hello, there
 
-My name is Mahendra and I'm a Front-End and Web Developer. I'm form Indonesia, living in Denpasar. And now I'm currently deepening android development with kotlin.
+As a mobile developer, I developed and acted in financial, sports and delivery applications, always seeking to exercise my best and impact users with a good impression.
 
-## My first kotlin app
+## My hot flutter repo
 
-[![FirstAppKotlin](https://github-readme-stats.vercel.app/api/pin/?username=hendrasob&repo=FoodApp&theme=radical)](https://github.com/hendrasob/FoodApp)
+[![FirstAppKotlin](https://github-readme-stats.vercel.app/api/pin/?username=leonardomteixeira&repo=flutter_hot_architecture&theme=radical)](https://github.com/hendrasob/FoodApp)
 
 ## Github Stats
 
