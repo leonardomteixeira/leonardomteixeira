@@ -36,10 +36,10 @@ As a mobile developer, I developed and acted in financial, sports and delivery a
 
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardomteixeira&show_icons=true&theme=midnight-purple)
+ <a href="https://github.com/VanessaSwerts">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardomteixeira&theme=midnight-purple&show_icons=true" />
+</a>
 </details>
-
-<img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Hendrasob&theme=highcontrast" />
 
 -----
 
