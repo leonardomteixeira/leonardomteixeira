@@ -1,8 +1,6 @@
-## :herb: Hi, I'm <strong>{Lema}!</strong>
+## :herb: Hi, I'm <strong>Lema!</strong>
 
 > As a mobile developer, I developed and acted in financial, sports and delivery applications, always seeking to exercise my best and impact users with a good impression.
-
-💬  Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
 
 ----
 
