@@ -36,11 +36,7 @@ As a mobile developer, I developed and acted in financial, sports and delivery a
 
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
-  <br/>
-    <img alt="Leonardo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=leonardomteixeira&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true" />
-  <img alt="Leonardo's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardomteixeira&langs_count=10&layout=compact&theme=midnight-purple&hide_border=true" />
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardomteixeira&show_icons=true&theme=midnight-purple)
 </details>
 
 <img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Hendrasob&theme=highcontrast" />
