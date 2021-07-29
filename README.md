@@ -1,14 +1,12 @@
-## 💜 Olá, meu nome é <strong>{seu nome}!</strong>
+## :herb: Hi, I'm <strong>{Lema}!</strong>
 
-> Faça uma breve aprensentação sobre você e a sua área.
+> As a mobile developer, I developed and acted in financial, sports and delivery applications, always seeking to exercise my best and impact users with a good impression.
 
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
-
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
+💬  Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
 
 ----
 
-## 🚀 Minhas Skills
+## 🚀 Mine Skills
 
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
@@ -26,4 +24,4 @@
 ---
 
 ## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmarcelojr&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leonardomteixeira&show_icons=true)
