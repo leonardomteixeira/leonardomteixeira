@@ -15,14 +15,13 @@ object Leonardo {
  
  val primarySkillset = listOf("Flutter", "FlutterFire")
  val languages = listOf("Dart")
- val learning = "Kotlin"
+ val learning = "Native"
 
- val contact = "@hendrasob".apply {
-   twitter = this
-   facebook = this
+ val contact = "@o_machads".apply {
    instagram = this
  }
 }
+
 ```
 ## Hello, there
 
