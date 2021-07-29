@@ -15,8 +15,7 @@ class Leonardo {
   
   List<String> skills = ['Flutter'];
   List<String> languages = ['Dart'];
-  
-  String learning = 'Mobile Native';
+  List<String> learning = ['Mobile Native'];
   
   Map<String, String> contact = {
     'instagram': '@o_machads',
