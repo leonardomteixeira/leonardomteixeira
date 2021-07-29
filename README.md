@@ -8,20 +8,21 @@
 <img alt="Profile View" src="https://gpvc.arturio.dev/leonardomteixeira" />
 </p>
 
-```kotlin
-object Leonardo {
- val name = "Leonardo"
- val birth = "12th-june"
- 
- val primarySkillset = listOf("Flutter", "FlutterFire")
- val languages = listOf("Dart")
- val learning = "Native"
-
- val contact = "@o_machads".apply {
-   instagram = this
- }
+```dart
+class Leonardo {
+  String name = 'Leonardo Machado';
+  String birth = '12th-june';
+  
+  List<String> skills = ['Flutter'];
+  List<String> languages = ['Dart'];
+  
+  String learning = 'Natitive';
+  
+  Map<String, String> contact = {
+    'instagram': '@o_machads',
+    'twitter': '@lema_dev',
+  };
 }
-
 ```
 ## Hello, there
 
