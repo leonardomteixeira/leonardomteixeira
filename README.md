@@ -30,15 +30,15 @@ As a mobile developer, I developed and acted in financial, sports and delivery a
 
 ## My hot flutter repo
 
-[![FirstAppKotlin](https://github-readme-stats.vercel.app/api/pin/?username=leonardomteixeira&repo=flutter_hot_architecture&theme=radical)](https://github.com/hendrasob/FoodApp)
+[![FirstAppKotlin](https://github-readme-stats.vercel.app/api/pin/?username=leonardomteixeira&repo=flutter_hot_architecture&theme=midnight-purple)](https://github.com/leonardomteixeira/flutter_hot_architecture)
 
 ## Github Stats
 
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
-    <img alt="Hendrasob's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Hendrasob&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" />
-  <img alt="Hendrasob's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hendrasob&langs_count=10&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+    <img alt="Leonardo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=leonardomteixeira&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true" />
+  <img alt="Leonardo's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardomteixeira&langs_count=10&layout=compact&theme=midnight-purple&hide_border=true" />
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
@@ -46,6 +46,4 @@ As a mobile developer, I developed and acted in financial, sports and delivery a
 <img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Hendrasob&theme=highcontrast" />
 
 -----
-Credits: [Mahendra](https://github.com/hendrasob)
 
-Last Edited on: 24/03/2021
