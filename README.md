@@ -36,9 +36,11 @@ As a mobile developer, I developed and acted in financial, sports and delivery a
 
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
- <a href="https://github.com/VanessaSwerts">
+ 
+ <a href="https://github.com/leonardomteixeira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardomteixeira&theme=midnight-purple&show_icons=true" />
 </a>
+ 
 </details>
 
 -----
