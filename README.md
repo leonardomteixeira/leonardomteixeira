@@ -1,5 +1,5 @@
 <p align="center">
- <h2 align="center">Lema - @o_machads</h2>
+ <h2 align="center">Lema</h2>
  <p align="center">Tech Lead | Senior Flutter Engineer</p>
 </p>
 
