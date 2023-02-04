@@ -8,21 +8,6 @@
 <img alt="Profile View" src="https://gpvc.arturio.dev/leonardomteixeira" />
 </p>
 
-```dart
-class Leonardo {
-  String name = 'Leonardo Machado';
-  String birth = '12th-june';
-  
-  List<String> skills = ['Flutter'];
-  List<String> languages = ['Dart'];
-  List<String> learning = ['Mobile Native'];
-  
-  Map<String, String> contact = {
-    'instagram': '@o_machads',
-    'twitter': '@lema_dev',
-  };
-}
-```
 ## Hello, there
 
 As a mobile developer, I developed and acted in financial, sports and delivery applications, always seeking to exercise my best and impact users with a good impression.
