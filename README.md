@@ -1,5 +1,4 @@
 <p align="center">
- <img width="100px" src="https://github.com/hendrasob/hendrasob/blob/master/assets/github.gif" align="center" alt="Hendrasob's GitHub Readme" />
  <h2 align="center">Lema - @o_machads</h2>
  <p align="center">Tech Lead | Senior Flutter Engineer</p>
 </p>
